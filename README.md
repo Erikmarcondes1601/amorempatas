@@ -1,4 +1,4 @@
-# amorempatas
+# amorempatas :dog:
 <html><head><title>
 	Site de namoro, relacionamento e Encontros Grátis. Namoro online
 </title><meta name="description" content="Site de namoro, relacionamento e Encontros Gratuito, Milhões de pessoas cadastradas. Comece um relacionamento hoje. Vídeo Chat, beijos, namoro, romance. Maior site de relacionamento. Site de namoro no Brasil, site de namoro brasileiro, site de Relacionamento no Brasil, site de relacionamento brasileiro, Site de relacionamento e namoro em Portugal, paquera, paquerar"><meta name="keywords" content="namoro, namorado, namorada, namorar, relacionamento, casamento, rede social, tinder, amores possiveis, parperfeito, pof, amor, amizade, site de namoro, bate papo, vídeo chat gratuito, namoro online, homem, mulher, site de relacionamento, Site de namoro, agência de namoro, encontros, cupido, romance, namoro brasil, namoro portugal, site de namoro no Brasil, site de namoro brasileiro, site de namoro no brasil, Site de Relacionamento brasileiro, Site de relacionamento em portugal, paquera, paquerar, pegação, azaração, amor, loira, morena, ruiva, moreno"><meta name="distribution" content="global"><meta name="robots" content="index,follow"><meta name="revisit-after" content="3 days"><meta name="verify-v1" content="CxUyR4wrbm1mACwZBMPtnx6Cjjvqh8xRYi5vA7ZRVhk=">
@@ -71,28 +71,29 @@
                         </div>
                     </div>
                 </div>
-
+    
                 <div style="clear:both;"></div>
-
+    
                 <!-- topo: voltar e titulo da pagina -->
                 
                 <div style="clear:both;"></div>
             </div>
             <!-- fim topo -->
-
+    
             <div id="idMainSite">
-
+    
                 <!-- altura da home 0px, outras páginas 80px -->   
-                
+
 
 
                 <!--banner abaixo menu-->
-                
-            
-                <div style="clear:both;"></div>	
 
+
+​            
+                <div style="clear:both;"></div>	
+    
                 <!--conteúdo da home-->
-                
+
 
         <style>
             .baixoMenu{padding-top:0px;clear:both;}
@@ -113,7 +114,7 @@
                             <div style="float:left;padding:2px 10px 1px 10px;margin:10px 0px 0px 16px;font-size:10pt;background-color:rgba(65, 84, 118, 0.9);-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;color:#8eb8f7;">milhões de perfis cadastrados</div>
                             <div style="clear:both;"></div><br>
                             <div style="float:left;padding:14px 0px 0px 6px;">
-                                
+
 
     <style>
         .loginBtn {
@@ -147,7 +148,7 @@
         .loginBtn:active {
             box-shadow: inset 0 0 0 32px rgba(0,0,0,0.1);
         }
-
+    
         .loginBtn--facebook {
             background-color: #4C69BA;
             background-image: linear-gradient(#4C69BA, #3B55A0);
@@ -163,7 +164,7 @@
             background-color: #5B7BD5;
             background-image: linear-gradient(#5B7BD5, #4864B1);
         }
-
+    
         .loginBtn--google {
             background: #DD4B39;
         }
@@ -177,10 +178,10 @@
             background: #E74B37;
         }
     </style>
-
+    
     <!-- box opcoes login / cadastro -->
     <div style="float:left;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;box-shadow:0px 0px 20px #000000;background-color:rgba(255,255,255,0.9);padding:12px;">                                                               
-
+    
         <!-- login email -->
         <div id="idLogin2" class="myBtnGreen" data-toggle="modal" data-dismiss="modal" data-target="#idModalLogin" style="width:210px;font-size:10pt;margin-bottom:14px;">
             <span class="glyphicon glyphicon-log-in" style="padding:0px 12px 0px 6px;font-size:10pt;"></span>Já é cadastrado? Login!
@@ -189,11 +190,11 @@
 
 
         <!-- login google -->
-        
+
 
 
         <!-- login facebook -->
-        
+
 
 
         <!-- ou -->
@@ -208,7 +209,7 @@
             <span class="glyphicon glyphicon-user" style="padding:0px 12px 0px 6px;font-size:10pt;"></span>Cadastre-se, é grátis!
         </div>
         <div style="clear:both;"></div>
-   
+       
     </div>
     <div style="clear:both;"></div><br>
     <!-- box opcoes login / cadastro -->
@@ -222,7 +223,7 @@
                 </div>                    
             </div>
         </div>
-
+    
         <!-- 3 -->
         <div id="ContentPlaceHolderHome_idBaixeApp" style="float:left;width:100%;min-width:320px;min-height:340px;padding-top:10px;background-color:#ffffff;">
             <div style="text-align:left;max-width:926px;">
@@ -238,7 +239,7 @@
         <!-- fim 3 -->
                 
         <div style="clear:both;"></div>
-
+    
         <!-- 4 -->
         <style>.carousel-inner > .item {height:340px;} .carousel-caption {text-align:left;top:0;}</style>
         <div id="ContentPlaceHolderHome_idCarrosel" style="float:left;width:100%;min-width:320px;padding-top:10px;color:#ffffff;background:linear-gradient(180deg, #072b51, #2e6ea5);">
@@ -247,7 +248,7 @@
                     <img src="../../_images/ico_aspas.png" width="60"><br>
                     <div style="float:left;width:100%;padding-top:30px;">
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
+    
                             <div class="carousel-inner" role="listbox">
                                 <div class="item"><div class="carousel-caption" style="text-shadow:none;font-size:12pt;"><b style="color:#ffffff;font-size:12pt;">Sol</b><br><br><p>Belíssimo site. Direto ao ponto sem rodeios. 
 Parabéns aos idealizadores, estou adorando!</p></div></div><div class="item"><div class="carousel-caption" style="text-shadow:none;font-size:12pt;"><b style="color:#ffffff;font-size:12pt;">Lorena souza</b><br><br><p>Esse site é sensacional...  fiz novas amizades e estou quase encontrando minha alma gemea !</p></div></div><div class="item"><div class="carousel-caption" style="text-shadow:none;font-size:12pt;"><b style="color:#ffffff;font-size:12pt;">Moreniha</b><br><br><p>Achei muito bom, já conheci várias pessoas e recomendei para os amigos. É o melhor site de namoro que conheci. Parabéns. abraço</p></div></div><div class="item"><div class="carousel-caption" style="text-shadow:none;font-size:12pt;"><b style="color:#ffffff;font-size:12pt;">Danrley Alves</b><br><br><p>Gostei Muito do site. Conheci Bastante Gente. Arrumei Muitos Amigos Aqui. Agradeço a esse excelente site de namoro, Amores Possíveis. </p></div></div><div class="item"><div class="carousel-caption" style="text-shadow:none;font-size:12pt;"><b style="color:#ffffff;font-size:12pt;">berta137776</b><br><br><p>boa tarde,meu nome é Roberta quero através dessa mensagem ,agradecer ao site amores possiveis ,por ter encontrado o amor de minha vida,nunca tinha entrado em um site de relacionamentos pois ñ confiava ,mas uma amiga me indicou e disse que era uma boa maneira de encontrar-mos alguem especial....e foi isso que aconteceu, em breve estaremos nos casando(dezembro 2015), muito obrigado a todos os envolvidos no trabalho(site). Sonho realizado.... bjs a todos</p></div></div><div class="item active"><div class="carousel-caption" style="text-shadow:none;font-size:12pt;"><b style="color:#ffffff;font-size:12pt;">Rosana "Naná"</b><br><br><p>Há 7 meses atrás conheci um rapaz aqui no chat conversamos alguns dias e marcamos encontro .
@@ -275,9 +276,9 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
             </div>                    
         </div>
         <!-- fim 4 -->
-
+    
         <div style="clear:both;"></div>
-
+    
         <!-- 5 -->
         <div id="ContentPlaceHolderHome_idFuncionalidades" style="float:left;width:100%;min-width:320px;padding-top:10px;background-color:#ffffff;">
             <div style="text-align:left;max-width:926px;">
@@ -346,15 +347,15 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
             </div>                    
         </div>
         <!-- fim 5 -->        
-
+    
         <div style="clear:both;"></div>
-
+    
         <!-- video 6 -->
         
         <!-- fim video 6 -->
-
+    
         <div style="clear:both;"></div>
-
+    
         <!-- TAGS 7 -->
         <div id="ContentPlaceHolderHome_idTags" style="float:left;width:100%;min-width:320px;padding-top:30px;padding-bottom:20px;background-color:#f5f5f5;">
             <style>
@@ -368,17 +369,17 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         <!-- fim video 6 -->
                 
         <div style="clear:both;"></div>
-
+    
         <script>
             document.addEventListener("DOMContentLoaded", function (event) {
-
+    
                 //carousel
                 if ('res_pt' != 'res_us') {
                     $('.carousel').carousel({ interval: 20000 }); //intervalo para transicao
                     $(".carousel").swiperight(function () { $(this).carousel('prev'); }); //touch right
                     $(".carousel").swipeleft(function () { $(this).carousel('next'); }); //touch left
                 }
-
+    
                 //cloud tags
                 var scriptCloudTags = document.createElement('script');
                 scriptCloudTags.onload = function () {
@@ -391,17 +392,19 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
 
 
 
-            
+
         </script>
 
  
+
 
                 <!--conteúdo outas páginas, menos home-->
                 <div class="boxPrincipal">		
                     <div id="idConteudo">
                         <div style="margin:16px 6px 10px 6px;word-wrap:break-word;">                        
-                            
-                              
+
+
+​                              
                             <div style="clear:both;"></div>
                             
                         </div>
@@ -412,10 +415,10 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                             <br>   
                         </div>
                     </div>
-	            </div>
-
+                </div>
+    
                 <div style="clear:both;"></div>
-
+    
                 <!-- rodapé -->
                 <div style="float:left;width:100%;min-width:320px;padding-top:6px;background-color:#303030;">
                     <div style="text-align:left;max-width:926px;">
@@ -425,7 +428,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                                 <span style="color:#ff61c0;font-weight:bold;font-style:italic;font-size:11pt;">19 anos apaixonando pessoas</span><br><br><br>
                                                             
                                 <span style="color:#89B8F2;font-weight:bold;">indique o amores possíveis</span><br>  
-                                
+
 
 <script type="text/javascript">
     var appID = '247083448787210';
@@ -468,20 +471,20 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
 <div style="clear:both;"></div><br><br>
 
                                 <div id="idLinksRodape">
-                                    
+
 
                                     <span style="color:#89B8F2;font-weight:bold;">mais...</span><br>
                                     
                                     <a href="JavaScript:void(window.open('../termos-de-uso/default.aspx', '_blank', 'resizable=no, scrolling=no, status=no, menubar=no, scrollbars=yes, top=10, left=100, toolbar=no, width=540, height=520'));void(0);" style="color:#ffffff;" title="termos de uso">termos de uso</a><br>
                                     <a href="../mapa-do-site/default.aspx" style="color:#ffffff;" title="Mapa do site">mapa do site</a><br>
-
+    
                                     <div style="clear:both;"></div><br>
                                 </div>
-
+    
                                 <span style="color:#89B8F2;font-weight:bold;">idioma / language</span><br>
                                 <a href="/namoro/site-de-relacionamento/default.aspx?lng=pt&amp;" style="color:#ffffff;">português</a>&nbsp; - &nbsp;<a href="/namoro/site-de-relacionamento/default.aspx?lng=us&amp;" style="color:#ffffff;">english</a>
                                 <div style="clear:both;"></div><br><br>
-
+    
                                 <div>© 2002-2021 amores possíveis.<br>Todos os direitos reservados - <a href="../site-de-namoro-busca/busca-por-click.aspx" style="color:#ffffff;">v3.4.6</a></div>
                             </div>
                         </div>                                                                       
@@ -489,12 +492,12 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                     <div style="clear:both;"></div><br><br>                
                 </div>
                 <!-- fim rodapé -->
-
+    
                 <div style="clear:both;"></div>
-
+    
                 <div style="float:left;text-align:left;">
                     <!-- modais -->
-                    
+
 
     <script type="text/javascript">
         var modalNovoBeijoRecebido = 'Novo beijo recebido';
@@ -502,9 +505,9 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         var modalNovoFavoritoAdicionado = 'Novo favorito adicionado';
         var modalTxtLerTodas = 'ver';
     </script>
-
+    
     <input type="submit" onclick="javascript:return false;" value="" style="width:0px;height:0px;border:0px;padding:0px;display:block;">
-
+    
     <!-- modal ampliar imagem -->
     <div id="idModalImage" class="modal" style="z-index:1043;">
         <div class="modal-dialog" style="position:relative;display:table;overflow-y:auto;overflow-x:auto;width:auto;min-width:90px;min-height:90px;">
@@ -519,7 +522,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         </div>
     </div>
     <!-- fim modal ampliar imagem -->
-
+    
     <!-- modal executa interacao -->
     <div class="modal" id="idModalExecutaInteracao" role="dialog" style="z-index:9999;">
         <div class="modal-dialog">
@@ -535,7 +538,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         </div>
     </div> 
     <!-- fim executa interacao -->
-
+    
     <!-- modal lista interacoes -->
     <div class="modal" id="idModalListaInteracoes" role="dialog" style="z-index:9999;">
         <div class="modal-dialog">
@@ -551,7 +554,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         </div>
     </div> 
     <!-- fim executa interacao -->
-
+    
     <!-- modal alerta -->
     <div class="modal" id="idModalAlerta" role="dialog" style="z-index:9999;">
         <div class="modal-dialog">
@@ -569,7 +572,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         </div>
     </div> 
     <!-- fim alerta -->
-
+    
     <!-- modal video -->
     <div id="idModalVideo" class="modal">
         <div class="modal-dialog">
@@ -596,7 +599,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
             <div style="float:right;padding:1px 6px 2px 0px;"><span onclick="javascript:removeAlertaInteracao();" style="cursor:pointer;">ignorar este alerta</span></div>
         </div>     
     </div>
-
+    
     <!-- modal Indique email -->
     <div class="modal" id="idModalIndique" role="dialog">
         <div class="modal-dialog">
@@ -622,7 +625,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         </div>
     </div> 
     <!-- fim modal Indique email -->
-
+    
     <!-- modal avaliacao -->
     <div id="idModalAvaliacao" class="modal">
         <div class="modal-dialog">
@@ -658,9 +661,9 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         </div>
     </div>
     <!-- fim modal avaliacao -->
-
+    
                     <!-- modal login -->
-                    
+
 
     <script type="text/javascript">
         // modal login
@@ -677,7 +680,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
             }
         }
         //fim modal login
-
+    
         // modal reativar login
         function validaReativarLogin()
         {
@@ -717,7 +720,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                     alerta('erro', 'erro', 'Por favor, informe o campo <u>Procuro por</u>');
                 return false;
             }
-
+    
             if (document.getElementById('idModalLoginAscx_txtEmailCadCurto') != null) {
                 if (!VerificaEmail(document.getElementById('idModalLoginAscx_txtEmailCadCurto').value.toLowerCase().replace(/\s/g, ''))) {
                         document.getElementById('idModalLoginAscx_txtEmailCadCurto').focus();
@@ -725,13 +728,13 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                     return false;
                 }
             }
-
+    
             if (document.getElementById('idModalLoginAscx_txtApelidoCadCurto').value.length < 3) {
                 document.getElementById('idModalLoginAscx_txtApelidoCadCurto').focus();
                     alerta('erro', 'erro', 'O campo <u>apelido</u> precisa ter no mínimo 3 caracteres');
                 return false;
             }
-
+    
             alerta('default', 'aguarde...', '<div class="progress"><div class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" style="width:100%;"></div></div>');
             document.getElementById('idModalLoginAscx_btnCadastrarPerfilCadCurto').style.display = "none";
         }
@@ -759,7 +762,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                             <input id="idModalLoginAscx_chkLoginConectado" type="checkbox" name="ctl00$idModalLoginAscx$chkLoginConectado"><label for="idModalLoginAscx_chkLoginConectado">mantenha-me conectado</label>
                         </div>
                         <div class="form-group" style="padding-top:10px;">
-		                    <input type="submit" name="ctl00$idModalLoginAscx$btnEnviarLogin" value="Enviar" onclick="javascript:return validaLogin();" id="idModalLoginAscx_btnEnviarLogin" title="bom namoro!" class="myBtn">
+    	                    <input type="submit" name="ctl00$idModalLoginAscx$btnEnviarLogin" value="Enviar" onclick="javascript:return validaLogin();" id="idModalLoginAscx_btnEnviarLogin" title="bom namoro!" class="myBtn">
                         </div>
                     </div>
                 </div>
@@ -770,7 +773,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         </div>
     </div> 
     <!-- fim modal login -->
-
+    
     <!-- modal reativar login -->
     <div class="modal" id="idModalReativarLogin" role="dialog">
         <div class="modal-dialog">
@@ -791,7 +794,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                             <input name="ctl00$idModalLoginAscx$txtSenhaLoginAtiva" type="password" maxlength="20" id="idModalLoginAscx_txtSenhaLoginAtiva" onfocus="this.style.backgroundColor='#ffff99';" onblur="this.style.backgroundColor='#ffffff';" placeholder="senha" style="width:98%;">
                         </div>
                         <div class="form-group">
-		                    <input type="submit" name="ctl00$idModalLoginAscx$btnEnviarReativarLogin" value="Enviar" onclick="javascript:return validaReativarLogin();" id="idModalLoginAscx_btnEnviarReativarLogin" title="bom namoro!" class="myBtn">
+    	                    <input type="submit" name="ctl00$idModalLoginAscx$btnEnviarReativarLogin" value="Enviar" onclick="javascript:return validaReativarLogin();" id="idModalLoginAscx_btnEnviarReativarLogin" title="bom namoro!" class="myBtn">
                         </div>
                     </div>
                 </div>
@@ -802,7 +805,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
         </div>
     </div> 
     <!-- fim reativar login -->
-
+    
     <!-- modal recuperar senha -->
     <div class="modal" id="idModalRecuperarSenha" role="dialog">
         <div class="modal-dialog">
@@ -817,7 +820,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                             <input name="ctl00$idModalLoginAscx$txtEmailRecuperar" type="text" maxlength="45" id="idModalLoginAscx_txtEmailRecuperar" placeholder="e-mail" onfocus="this.style.backgroundColor='#ffff99';" onblur="this.style.backgroundColor='#ffffff';" style="width:98%;text-transform:lowercase;">
                         </div>
                         <div class="form-group">
-		                    <input type="submit" name="ctl00$idModalLoginAscx$btnEnviarRecuperarSenha" value="Enviar" onclick="javascript:return validaRecuperarSenha();" id="idModalLoginAscx_btnEnviarRecuperarSenha" class="myBtn">
+    	                    <input type="submit" name="ctl00$idModalLoginAscx$btnEnviarRecuperarSenha" value="Enviar" onclick="javascript:return validaRecuperarSenha();" id="idModalLoginAscx_btnEnviarRecuperarSenha" class="myBtn">
                         </div>
                     </div>
                 </div>
@@ -841,13 +844,13 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                     <div class="modal-title">Cadastre-se, é grátis!</div>
                 </div>
                 <div class="modal-body" style="color:#777777;font-size:10pt;">
-
+    
                     <div id="pnlCadastro1" style="float:left;width:100%;display:block;padding-top:4px;line-height:46px;text-align:center;" onkeypress="javascript:return btDefault(event,'idModalLoginAscx_btnCadastrarPerfilCadCurto');">
                         <div style="float:left;width:100%;padding-top:0px;">
                             <select name="ctl00$idModalLoginAscx$ddlSexoCadCurto" id="idModalLoginAscx_ddlSexoCadCurto" style="width:100%;padding:10px;">
-	<option value="0">eu sou</option>
-	<option value="M">Homem</option>
-	<option value="F">Mulher</option>
+    <option value="0">eu sou</option>
+    <option value="M">Homem</option>
+    <option value="F">Mulher</option>
 
 </select>
                         </div>
@@ -855,10 +858,10 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                         <div style="clear:both;"></div>
                         <div style="float:left;width:100%;padding-top:6px;">
                             <select name="ctl00$idModalLoginAscx$ddlSexualidadeCadCurto" id="idModalLoginAscx_ddlSexualidadeCadCurto" style="width:100%;padding:10px;">
-	<option value="0">procuro por</option>
-	<option value="1">Homem</option>
-	<option value="2">Mulher</option>
-	<option value="3">Homem ou mulher</option>
+    <option value="0">procuro por</option>
+    <option value="1">Homem</option>
+    <option value="2">Mulher</option>
+    <option value="3">Homem ou mulher</option>
 
 </select>
                         </div>
@@ -867,49 +870,49 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                         <div style="float:left;width:100%;padding-top:6px;">
                             <input name="ctl00$idModalLoginAscx$txtApelidoCadCurto" type="text" maxlength="16" id="idModalLoginAscx_txtApelidoCadCurto" placeholder="nome ou apelido" style="width:100%;padding:10px;">
                         </div>
-
+    
                         <div id="idModalLoginAscx_idBoxEmail">
                             <div style="clear:both;"></div>
                             <div style="float:left;width:100%;padding-top:6px;">
                                 <input name="ctl00$idModalLoginAscx$txtEmailCadCurto" type="text" maxlength="45" id="idModalLoginAscx_txtEmailCadCurto" placeholder="e-mail" style="width:100%;padding:10px;text-transform:lowercase;">
                             </div>
                         </div>
-
+    
                         <div style="clear:both;"></div>
                         <div style="float:left;width:100%;padding-top:6px;text-align:left;">
                             data de nascimento <span class="cinza" style="font-size:11px;">(*dia/mes/ano)</span><br>
                             <select name="ctl00$idModalLoginAscx$ddlDiaCadCurto" id="idModalLoginAscx_ddlDiaCadCurto" style="width:60px;padding:10px;">
-	<option value="01">01</option>
-	<option value="02">02</option>
-	<option value="03">03</option>
-	<option value="04">04</option>
-	<option value="05">05</option>
-	<option value="06">06</option>
-	<option value="07">07</option>
-	<option value="08">08</option>
-	<option value="09">09</option>
-	<option value="10">10</option>
-	<option value="11">11</option>
-	<option value="12">12</option>
-	<option value="13">13</option>
-	<option value="14">14</option>
-	<option value="15">15</option>
-	<option value="16">16</option>
-	<option value="17">17</option>
-	<option value="18">18</option>
-	<option value="19">19</option>
-	<option value="20">20</option>
-	<option value="21">21</option>
-	<option value="22">22</option>
-	<option value="23">23</option>
-	<option value="24">24</option>
-	<option value="25">25</option>
-	<option value="26">26</option>
-	<option value="27">27</option>
-	<option value="28">28</option>
-	<option value="29">29</option>
-	<option value="30">30</option>
-	<option value="31">31</option>
+    <option value="01">01</option>
+    <option value="02">02</option>
+    <option value="03">03</option>
+    <option value="04">04</option>
+    <option value="05">05</option>
+    <option value="06">06</option>
+    <option value="07">07</option>
+    <option value="08">08</option>
+    <option value="09">09</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    <option value="15">15</option>
+    <option value="16">16</option>
+    <option value="17">17</option>
+    <option value="18">18</option>
+    <option value="19">19</option>
+    <option value="20">20</option>
+    <option value="21">21</option>
+    <option value="22">22</option>
+    <option value="23">23</option>
+    <option value="24">24</option>
+    <option value="25">25</option>
+    <option value="26">26</option>
+    <option value="27">27</option>
+    <option value="28">28</option>
+    <option value="29">29</option>
+    <option value="30">30</option>
+    <option value="31">31</option>
 
 </select> / <select name="ctl00$idModalLoginAscx$ddlMesCadCurto" id="idModalLoginAscx_ddlMesCadCurto" style="width:60px;padding:10px;">
 	<option value="01">01</option>
@@ -1019,18 +1022,18 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                             </div>
                         </div>
                     </div>
-
+    
                 </div>
             </div>
         </div>
     </div> 
     <!-- fim modal cadastro -->
                 </div>
-
+    
                 <div style="clear:both;"></div>
-
+    
             </div>
-
+    
             <!-- LGPD -->
             <script>
                 function fAceitarLGPD() {
@@ -1043,9 +1046,9 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                     Este website utiliza cookies para melhorar sua navegação, controlar sessão, medir a audiência e oferecer publicidade. <a href="../../namoro/termos-de-uso/default.aspx#idPrivacidade" style="text-decoration:underline;">mais informações</a> &nbsp; <span class="myBtnGreen" onclick="fAceitarLGPD();" style="width:60px;padding:0px;text-align:center;cursor:pointer;">aceito</span>
                 </div>
             </div>
-
+    
         </div></center>
-
+    
         <!-- menu principal -->
         <div id="sidrPrincipal" style="z-index: 200; transition: right 0.2s ease 0s;" class="sidr sidr-right"> 
             <div class="list-group">
@@ -1066,27 +1069,27 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                 <a href="../contato-relacionamento/envie-mensagem.aspx" class="list-group-item" title="fale conosco"><span class="glyphicon glyphicon-envelope"></span> &nbsp;fale conosco</a>
                 <div style="clear:both;"></div>
                 <div id="pnlBaixeApp" style="float:left;width:100%;" class="list-group-item">
-	                <div style="float:left;padding:2px 10px 2px 0px;">
-		                <a href="http://play.google.com/store/apps/details?id=amorespossiveis.app" title="download app android"><img src="../../_images/google_play_download.png" width="100" border="0" alt="download app android"></a>
-	                </div>  	
-	                <div style="float:left;padding:2px 0px 2px 0px;">
-		                <a href="https://itunes.apple.com/sg/app/amores-possiveis-premium/id973323524" title="download app ios"><img src="../../_images/app_store_download.png" width="100" border="0" alt="download app ios"></a>
-	                </div>  
+                    <div style="float:left;padding:2px 10px 2px 0px;">
+    	                <a href="http://play.google.com/store/apps/details?id=amorespossiveis.app" title="download app android"><img src="../../_images/google_play_download.png" width="100" border="0" alt="download app android"></a>
+                    </div>  	
+                    <div style="float:left;padding:2px 0px 2px 0px;">
+    	                <a href="https://itunes.apple.com/sg/app/amores-possiveis-premium/id973323524" title="download app ios"><img src="../../_images/app_store_download.png" width="100" border="0" alt="download app ios"></a>
+                    </div>  
                 </div>
                 <div style="clear:both;"></div>
             </div>
         </div>
         <!-- fim menu principal -->
-
+    
         <!-- menu overlay -->
         <div id="idMenuSidrOverlay"></div>
-
+    
         <script>
             document.addEventListener("DOMContentLoaded", function (event) {
-
+    
                 //exibe bt voltar
                 exibeBtVoltar();
-
+    
                 if (_isapp) {
                     $('a').click(function (event) {
                         if (event.currentTarget.attributes.progressbar == undefined) {
@@ -1094,47 +1097,47 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                         }
                     });
                 }
-
+    
                 //menu
-
+    
                 $('#idMenuPrincipalClose, #idMenuSidrOverlay').click(function () {
                     sidr.close('sidrPrincipal');
                 });
-
+    
                 $('#idMenuSidrOverlay').swiperight(function () {
                     sidr.close('sidrPrincipal');
                 });
-
+    
                 sidr.new('#idMenuPrincipal', {
                     // Name for the sidr. 
                     name: 'sidrPrincipal',
-
+    
                     // How long the animation will run. 
                     speed: 200,
-
+    
                     // Left or right, the location for the sidebar. 
                     side: 'right',
-
+    
                     // Displace the body content or not
                     displace: false,
-
+    
                     // Timing function for CSS transitions
                     timing: 'ease',
-
+    
                     // The method to call when element is clicked
                     method: 'toggle',
-
+    
                     onOpen: function () {
                         document.getElementById('idMenuSidrOverlay').style.display = 'block';
                     },
-
+    
                     onClose: function () {
                         document.getElementById('idMenuSidrOverlay').style.display = 'none';
                     }
                 });
-
+    
                 //fim menu
-
+    
                 //scroll > 20, muda cor do menu principal
                 $(window).scroll(function () {
                     if ($(window).scrollTop() > 20) {
@@ -1146,22 +1149,22 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
                 });
                 if ($(window).scrollTop() > 20) { document.getElementById("idTopoMenu").style.background = "rgba(250,250,250,0.98)"; }
                 //
-
+    
             });
 
 
             enviaComandoApp("cookies_flush");
         </script>
-
+    
         <div style="clear:both;"></div>
-        
+
 
 <script type="text/javascript" src="/_libs/jquery-2.2.2.min.js"></script>
 <script type="text/javascript" src="/_libs/jquery.mobile.custom-touch.js"></script>
 <script type="text/javascript" src="/_libs/bootstrap.min.js?v=370"></script>
 <script type="text/javascript" src="/_libs/funcoesgerais.min.js?v=57"></script>
 <script type="text/javascript" src="/_libs/sidr.min.js?v=1"></script>
-        
+
 
 <!-- analytics -->
 <script>
@@ -1178,7 +1181,7 @@ Excelente</p></div></div><div class="item"><div class="carousel-caption" style="
 </script>  
         
     </form>
-    
+
 
 
 </body></html>
