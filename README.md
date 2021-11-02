@@ -1,7 +1,7 @@
 # amorempatas :dog:
 <html><head><title>
-	Site de namoro, relacionamento e Encontros Grátis. Namoro online
-</title><meta name="description" content="Site de namoro, relacionamento e Encontros Gratuito, Milhões de pessoas cadastradas. Comece um relacionamento hoje. Vídeo Chat, beijos, namoro, romance. Maior site de relacionamento. Site de namoro no Brasil, site de namoro brasileiro, site de Relacionamento no Brasil, site de relacionamento brasileiro, Site de relacionamento e namoro em Portugal, paquera, paquerar"><meta name="keywords" content="namoro, namorado, namorada, namorar, relacionamento, casamento, rede social, tinder, amores possiveis, parperfeito, pof, amor, amizade, site de namoro, bate papo, vídeo chat gratuito, namoro online, homem, mulher, site de relacionamento, Site de namoro, agência de namoro, encontros, cupido, romance, namoro brasil, namoro portugal, site de namoro no Brasil, site de namoro brasileiro, site de namoro no brasil, Site de Relacionamento brasileiro, Site de relacionamento em portugal, paquera, paquerar, pegação, azaração, amor, loira, morena, ruiva, moreno"><meta name="distribution" content="global"><meta name="robots" content="index,follow"><meta name="revisit-after" content="3 days"><meta name="verify-v1" content="CxUyR4wrbm1mACwZBMPtnx6Cjjvqh8xRYi5vA7ZRVhk=">
+	Site de namoro e encontro para seu PET. Namoro online
+</title><meta name="description" content="Site de namoro, relacionamento e Encontros Gratuito, Milhões de animais cadastradas. Comece um relacionamento hoje. Vídeo Chat, beijos, namoro, romance. Maior site de relacionamento. Site de namoro PET no Brasil, site de namoro brasileiro, site de Relacionamento no Brasil, site de relacionamento brasileiro, Site de relacionamento e namoro em Portugal, paquera, paquerar"><meta name="keywords" content="namoro, namorado, namorada, namorar, relacionamento, casamento, fêmea, macho, rede social, tinder, amores possiveis, parperfeito, pof, amor, amizade, site de namoro, bate papo, vídeo chat gratuito, namoro online, homem, mulher, site de relacionamento, Site de namoro, agência de namoro, encontros, cupido, romance, namoro brasil, namoro portugal, site de namoro no Brasil, site de namoro brasileiro, site de namoro no brasil, Site de Relacionamento brasileiro, Site de relacionamento em portugal, paquera, paquerar, pegação, azaração, amor, loira, morena, ruiva, moreno"><meta name="distribution" content="global"><meta name="robots" content="index,follow"><meta name="revisit-after" content="3 days"><meta name="verify-v1" content="CxUyR4wrbm1mACwZBMPtnx6Cjjvqh8xRYi5vA7ZRVhk=">
 
 <link rel="canonical" href="https://www.amorespossiveis.com.br/namoro/site-de-relacionamento/default.aspx">
 <meta name="format-detection" content="telephone=no">
@@ -56,7 +56,7 @@
                                 <style>#idLogoSite h1{font-size:8pt;color:#a3a3a3;margin-top:4px;}</style><div style="float:left;padding:0px;margin:0px;min-width:130px;font-family:sans-serif;"><a href="https://www.amorespossiveis.com.br/namoro/site-de-relacionamento/default.aspx" title="home"><div style="float:left;padding:1px 3px 2px 0px;color:#DF57A9;font-weight:bold;font-size:11pt;">amores</div><div style="float:left;padding:1px 4px 2px 4px;background-color:#88B7F2;color:#ffffff;font-weight:bold;font-size:11pt;">possíveis</div></a></div><div style="clear:both"></div><div id="idLogoSite"><h1>site de namoro, encontros</h1></div>
                             </div>
                             <div id="idLogoSiteNamoro" style="float:left;display:none;">
-                                <h1>Site de namoro gratuito</h1><br>
+                                <h1>Site de namoro PET gratuito</h1><br>
                                 <h1>Site de namoro, relacionamento e Encontros Grátis. Namoro online</h1>
                             </div>
                             <div style="float:right;" id="idTopoDireita">
@@ -107,11 +107,11 @@
                 <div style="text-align:left;width:100%;">
                     <div style="width:100%;min-height:400px;position:absolute;z-index:2;">
                         <div style="width:234px;margin:0 auto;">
-                            <div style="float:left;padding:2px 10px 1px 10px;margin:48px 0px 0px 10px;font-size:10pt;background-color:rgba(65, 84, 118, 0.9);-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;color:#f3d877;">site de namoro gratuito</div>
+                            <div style="float:left;padding:2px 10px 1px 10px;margin:48px 0px 0px 10px;font-size:10pt;background-color:rgba(65, 84, 118, 0.9);-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;color:#f3d877;">site de namoro PET gratuito</div>
                             <div style="clear:both;"></div>
-                            <div style="float:left;padding:2px 10px 1px 10px;margin:10px 0px 0px 28px;font-size:10pt;background-color:rgba(65, 84, 118, 0.9);-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;color:#ff7eff;">19 anos apaixonando pessoas</div>
+                            <div style="float:left;padding:2px 10px 1px 10px;margin:10px 0px 0px 28px;font-size:10pt;background-color:rgba(65, 84, 118, 0.9);-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;color:#ff7eff;">Aproximando seu PET ao par perfeito</div>
                             <div style="clear:both;"></div>
-                            <div style="float:left;padding:2px 10px 1px 10px;margin:10px 0px 0px 16px;font-size:10pt;background-color:rgba(65, 84, 118, 0.9);-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;color:#8eb8f7;">milhões de perfis cadastrados</div>
+                            <div style="float:left;padding:2px 10px 1px 10px;margin:10px 0px 0px 16px;font-size:10pt;background-color:rgba(65, 84, 118, 0.9);-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;color:#8eb8f7;">milhares de perfis cadastrados</div>
                             <div style="clear:both;"></div><br>
                             <div style="float:left;padding:14px 0px 0px 6px;">
 
@@ -228,7 +228,7 @@
         <div id="ContentPlaceHolderHome_idBaixeApp" style="float:left;width:100%;min-width:320px;min-height:340px;padding-top:10px;background-color:#ffffff;">
             <div style="text-align:left;max-width:926px;">
                 <div style="padding:12px;text-align:center;font-size:12pt;">
-                    <br><br>Baixe o app do amores possíveis, é grátis!<br><br>
+                    <br><br>Baixe o app do Amor em Patas, é grátis!<br><br>
                     <a href="http://play.google.com/store/apps/details?id=amorespossiveis.app" title="app android play store"><img src="../../_images/google_play_download.png" width="140" style="padding-bottom:2px;" alt="app android play store"></a> &nbsp; <a href="https://itunes.apple.com/sg/app/amores-possiveis-premium/id973323524" title="app ios apple store"><img src="../../_images/app_store_download.png" width="140" style="padding-bottom:2px;" alt="app ios apple store"></a>
                     <br><br>
                     <img src="../../_images/stars45.png" width="120" style="padding-bottom:2px;" alt="4.5 estrelas"><br>4.5 estrelas
